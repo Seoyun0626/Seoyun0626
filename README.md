@@ -3,14 +3,14 @@
 ## 🙋‍♀️ PROFILE
 ```markdown
 Who Am I
-👩‍💻 I'm currently hoping for a Back-End Programmer
-🏫 I'm currently majoring in information and communication engineering at Dongguk University
+👩‍💻 백엔드 프로그래머
+🏫 동국대학교 정보통신공학과 재학
 
 Experiences
-🏦 Internship at Shinhan Securities (2023.10.23 ~ 2023.11.22)
-💻 ProDigitalAcademy at Shinhan Securities 2기  (2023.07 ~ 2023.10)
-🏫 Undergraduate Research Student in information and communication engineering at Dongguk University (2022.03 ~ )
-🏫 Study the La Piscine course at 42 Seoul (2022.08.22 ~ 2022.09.16)
+🏦 신한투자증권 인턴 (2023.10.23 ~ 2023.11.22)
+💻 신한투자증권 프로디지털아카데미 2기  (2023.07 ~ 2023.10)
+🏫 동국대학교 정보통신공학과 학부 연구생 (2022.03 ~ )
+🏫 42서울 라피신 과정 수행 (2022.08.22 ~ 2022.09.16)
 ```
 <br>
 
